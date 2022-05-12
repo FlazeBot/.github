@@ -10,14 +10,35 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-### FlazeBot links:  
-Website:  https://flazebot.com/  
-Discord: https://discord.flazebot.com/  
-Bot Invite: https://invite.flazebot.com/  
-Status:  https://uptime.flazebot.com/ or https://servers2.flazebot.com/ (also Status channel on our Discord)  
-Bot Status: https://status.flazebot.com/  
-Twitter: https://twitter.com/flazebot  
-Instagram: https://instagram.com/flazebot  
-GitHub: https://github.flazebot.com/  
-Documentation: https://docs.flazebot.com/  
-API: https://api.flazebot.com/  
+>FlazeBot
+>=================================================
+>
+> • ⏰ Always there waiting for you, 24/7!  
+> • 📻 FlazeBot stays playing in your server 24/7 and never disconnects unless you ask it to do so.  
+> • ⚙️ Change FlazeBot's settings.  
+> • 🎵 Plays high quality audio.  
+> • 📜 Play music with the different Flaze radio!   
+> • ⏳ 99.99% uptime.  
+> • 🔧 Constantly updated and improved.   
+> • 🔖 Complete and well-explained [documentation](https://docs.flazebot.com).
+
+FlazeBot's radio  
+-------------------------  
+• Phonk  
+• Lo-fi hip hop  
+• House  
+• Trap  
+• US Rap   
+• And More...   
+**Join our Discord to suggest radio genres!**  
+  
+FlazeBot's languages  
+-------------------------  
+• French  
+• English  
+• Portuguese   
+• German  
+• Arabic
+**Join our Discord and become a Translator to help us!**  
+
+**FlazeBot** will send a message when joining your guild, read it carefully to configure it. If you need help you can visit our documentation at **[docs.flazebot.com](https://docs.flazebot.com/)** or ask our staff at **[discord.flazebot.com](https://discord.flazebot.com/)**.  
