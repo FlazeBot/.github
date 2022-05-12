@@ -22,23 +22,4 @@
 > • 🔧 Constantly updated and improved.   
 > • 🔖 Complete and well-explained [documentation](https://docs.flazebot.com).
 
-FlazeBot's radio  
--------------------------  
-• Phonk  
-• Lo-fi hip hop  
-• House  
-• Trap  
-• US Rap   
-• And More...   
-**Join our Discord to suggest radio genres!**  
-  
-FlazeBot's languages  
--------------------------  
-• French  
-• English  
-• Portuguese   
-• German  
-• Arabic  
-**Join our Discord and become a Translator to help us!**  
-
 **FlazeBot** will send a message when joining your guild, read it carefully to configure it. If you need help you can visit our documentation at **[docs.flazebot.com](https://docs.flazebot.com/)** or ask our staff at **[discord.flazebot.com](https://discord.flazebot.com/)**.  
