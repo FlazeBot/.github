@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-## FlazeBot links:  
+### FlazeBot links:  
 Website:  https://flazebot.com/  
 Discord: https://discord.flazebot.com/  
 Bot Invite: https://invite.flazebot.com/  
