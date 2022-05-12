@@ -38,7 +38,7 @@ FlazeBot's languages
 • English  
 • Portuguese   
 • German  
-• Arabic
+• Arabic  
 **Join our Discord and become a Translator to help us!**  
 
 **FlazeBot** will send a message when joining your guild, read it carefully to configure it. If you need help you can visit our documentation at **[docs.flazebot.com](https://docs.flazebot.com/)** or ask our staff at **[discord.flazebot.com](https://discord.flazebot.com/)**.  
